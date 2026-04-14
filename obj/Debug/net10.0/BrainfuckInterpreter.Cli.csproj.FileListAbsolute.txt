@@ -1,0 +1,14 @@
+D:\Journey\Dotnet\BrainfuckInterpreter\BrainfuckInterpreter.Cli\bin\Debug\net10.0\BrainfuckInterpreter.Cli.exe
+D:\Journey\Dotnet\BrainfuckInterpreter\BrainfuckInterpreter.Cli\bin\Debug\net10.0\BrainfuckInterpreter.Cli.deps.json
+D:\Journey\Dotnet\BrainfuckInterpreter\BrainfuckInterpreter.Cli\bin\Debug\net10.0\BrainfuckInterpreter.Cli.runtimeconfig.json
+D:\Journey\Dotnet\BrainfuckInterpreter\BrainfuckInterpreter.Cli\bin\Debug\net10.0\BrainfuckInterpreter.Cli.dll
+D:\Journey\Dotnet\BrainfuckInterpreter\BrainfuckInterpreter.Cli\bin\Debug\net10.0\BrainfuckInterpreter.Cli.pdb
+D:\Journey\Dotnet\BrainfuckInterpreter\BrainfuckInterpreter.Cli\obj\Debug\net10.0\BrainfuckInterpreter.Cli.GeneratedMSBuildEditorConfig.editorconfig
+D:\Journey\Dotnet\BrainfuckInterpreter\BrainfuckInterpreter.Cli\obj\Debug\net10.0\BrainfuckInterpreter.Cli.AssemblyInfoInputs.cache
+D:\Journey\Dotnet\BrainfuckInterpreter\BrainfuckInterpreter.Cli\obj\Debug\net10.0\BrainfuckInterpreter.Cli.AssemblyInfo.cs
+D:\Journey\Dotnet\BrainfuckInterpreter\BrainfuckInterpreter.Cli\obj\Debug\net10.0\BrainfuckInterpreter.Cli.csproj.CoreCompileInputs.cache
+D:\Journey\Dotnet\BrainfuckInterpreter\BrainfuckInterpreter.Cli\obj\Debug\net10.0\BrainfuckInterpreter.Cli.dll
+D:\Journey\Dotnet\BrainfuckInterpreter\BrainfuckInterpreter.Cli\obj\Debug\net10.0\refint\BrainfuckInterpreter.Cli.dll
+D:\Journey\Dotnet\BrainfuckInterpreter\BrainfuckInterpreter.Cli\obj\Debug\net10.0\BrainfuckInterpreter.Cli.pdb
+D:\Journey\Dotnet\BrainfuckInterpreter\BrainfuckInterpreter.Cli\obj\Debug\net10.0\BrainfuckInterpreter.Cli.genruntimeconfig.cache
+D:\Journey\Dotnet\BrainfuckInterpreter\BrainfuckInterpreter.Cli\obj\Debug\net10.0\ref\BrainfuckInterpreter.Cli.dll
